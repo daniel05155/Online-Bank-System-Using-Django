@@ -1,4 +1,4 @@
-# Online Banking System Using Django
+# Our Bank System 
 
 A secure and user-friendly online banking system developed with Django Framework, featuring comprehensive account management capabilities.
 
